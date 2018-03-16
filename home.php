@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Homepage</title>
+		<title>Home 3</title>
 	</head>
 		<body>
 
